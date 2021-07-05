@@ -1,0 +1,78 @@
+p{
+	color:black;
+	font-family:Helvetica;
+	text-align:left;
+}
+
+li{
+	color:black;
+	font-family:Helvetica;
+	text-align:left;
+}
+
+.cover{
+	text-shadow:2px 2px #9d9aa0;
+	text-align:center;
+}
+
+.name{
+	text-shadow:2px 2px #9d9aa0;
+	color: blue;
+	font-family: Helvetica;
+	text-align: center;
+}
+.heading{
+	text-shadow:2px 2px #9d9aa0;
+	color: blue;
+	font-family: Helvetica;
+	text-align: left;
+}
+
+.email{
+	float:left;
+	background-color:#caebe8;
+	width:20%;
+	height:60px;
+	border:1px solid black;
+	padding: 0.1%
+}
+
+.phone{
+	float: center;
+	background-color: #caebe8;
+	width:20%;
+	height:60px;
+	border:1px solid black;
+	padding: 0.1%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.linkedin{
+	float: right;
+	background-color: #caebe8;
+	width:20%;
+	height:60px;
+	border: 1px solid black;
+	padding:0.1%;
+	margin:0 auto;
+}
+
+h1{
+	color:blue;
+	text-align:center;
+}
+
+h2{
+	color:blue;
+	text-align:left;
+}
+
+h3{
+	color:black;
+	text-align:center;
+}
+
+body{
+	background:#caebe8;
+}
